@@ -19,7 +19,7 @@ SliceOP package uses generic function that accepts interface (any) so you can op
 
 ---
 
-Some of the usage exaples as shown below;
+Some of the usage examples as shown below;
 
 ```
 package main
