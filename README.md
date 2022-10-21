@@ -9,7 +9,9 @@ This repository hold the slice operation package
 
 Get the sliceOP package by 
 
-``go get github.com/ASaidOguz/sliceOP``
+``` 
+go get github.com/ASaidOguz/sliceOP 
+```
 
 
 After the installation you can import the package  in your go file and use it as slice operation package.
